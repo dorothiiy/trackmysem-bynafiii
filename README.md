@@ -4,8 +4,7 @@
 
 It features a modern, dark-themed UI built with React and a robust Node.js/SQLite backend for data persistence.
 
-![Dashboard Preview](https://github.com/dorothiiy/trackmysem/blob/main/docs/dashboard-preview.png?raw=true) 
-*(Note: You may need to update this image link after pushing screenshots to your repo)*
+<img width="1792" height="984" alt="Screenshot 2026-02-19 at 10 19 33 PM" src="https://github.com/user-attachments/assets/3dddc5b5-1063-4496-8a7e-3a755ce56157" />
 
 ## 🚀 Features
 
