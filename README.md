@@ -4,8 +4,8 @@
 
 It features a modern, dark-themed UI built with React and a robust Node.js/SQLite backend for data persistence.
 
-<<img width="1792" height="984" alt="Screenshot 2026-02-19 at 10 19 33 PM" src="https://github.com/user-attachments/assets/40d861b2-c59b-45ec-82b0-11cd274d68d7" />
- />
+<img width="1792" height="984" alt="Screenshot 2026-02-19 at 10 19 33 PM" src="https://github.com/user-attachments/assets/40d861b2-c59b-45ec-82b0-11cd274d68d7" />
+ 
 
 ## 🚀 Features
 
